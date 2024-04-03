@@ -20,6 +20,8 @@
 #        found = False
 # print(found)
 
+# Проверка отправки проекта в GitHub
+
 list_val = [1, 2, 3, 4]
 
 add_val = [5, 6]
