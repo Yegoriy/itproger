@@ -29,3 +29,4 @@ add_val = [5, 6]
 list_val.extend(add_val)
 
 print(list_val)
+print(add_val)
